@@ -1,1 +1,0 @@
-Set objExcel = CreateObject("Excel.Application")objExcel.Application.Run "'D:\Workspace\iTAFSeleniumWeb\DynamicData_Updated.xlsm'!Sheet1.GenerateData_Click"objExcel.DisplayAlerts = falseobjExcel.Application.QuitSet objExcel = Nothing

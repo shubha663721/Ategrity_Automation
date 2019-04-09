@@ -1,2 +1,0 @@
-Iteration,TestCaseID,TransactionType,CurrentDate,RowType,Status,PassCount,FailCount, Compare Result,Quote Number
-"","HO_Rating_TC1","GetPolicyID","2019/01/30 18:22:15","Field: InsuredName","PASS","1","0","Jack Vilo",""
